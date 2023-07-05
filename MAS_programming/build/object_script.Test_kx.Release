@@ -1,0 +1,10 @@
+release/cs_rov.o
+release/main.o
+release/rov_model.o
+release/kx_protocol.o
+release/qkx_coeffs.o
+release/qpiconfig.o
+release/moc_cs_rov.o
+release/moc_rov_model.o
+release/moc_kx_protocol.o
+release/moc_qkx_coeffs.o
